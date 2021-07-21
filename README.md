@@ -8,10 +8,10 @@
 a passionate android app developer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces and framework. i take great care in the experience, architecture, and code quality of the things I build.
 
 <br/>
-<br/>
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
+<br/>
 <br/>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=icuishuai.icuishuai)

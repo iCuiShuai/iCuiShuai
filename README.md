@@ -13,7 +13,6 @@ a passionate android app developer. my passion for software lies with dreaming u
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 <br/>
-<br/>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=icuishuai.icuishuai)
 </div>
